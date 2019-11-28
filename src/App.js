@@ -1,12 +1,6 @@
 import React from 'react';
 import './App.css';
 
-let name = "ClickKit";
-
-ReactDOM.render(
-  <h2 className="Foot"> {name}</h2>,
-  document.getElementById("Footer"));
-
 const data = [
 
   { id: '', title: 'A Deal', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/A%20deal.MOV?raw=true' },
