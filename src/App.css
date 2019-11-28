@@ -32,8 +32,10 @@ h1{
   width: 50%;
   padding: 20%; 
   color: white;
+  text-align: center;
 }
 
 #drum-pads div{
   width: 50%;
+  overflow-wrap: break-word;
 }
