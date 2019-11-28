@@ -1,4 +1,7 @@
-body{            background:url('https://github.com/akempffer/drumkit/blob/master/public/Background%20Image.jpg?raw=true');
+body{            
+  background:url('https://github.com/akempffer/drumkit/blob/master/public/Background%20Image.jpg?raw=true');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #drum-pads{
