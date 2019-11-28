@@ -22,8 +22,8 @@ const data = [
    { id: '', title: 'Fallen Gamer', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Fallen%20Gamer.mov?raw=true' },
    { id: '', title: 'Meme Review', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Meme%20Review.mov?raw=true' }, 
   { id: '', title: 'My Opinion', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Not%20Supposed%20To%20Give%20My%20Opinion.mov?raw=true' },
-   { id: '', title: 'Phil Time - High', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Phil%20Time!%20-%20High.mov?raw=true' }
-   { id: '', title: 'Learning With Lazarbeam', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Learning%20With%20Lazarbeam.mov?raw=true' },
+   { id: '', title: 'Phil Time - High', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Phil%20Time!%20-%20High.mov?raw=true' },
+     { id: '', title: 'Learning With Lazarbeam', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Learning%20With%20Lazarbeam.mov?raw=true' },
      { id: '', title: 'Yeet', src: 'https://github.com/akempffer/drumkit/blob/master/public/Sounds/Yeet.mov?raw=true' }
   ]
 
