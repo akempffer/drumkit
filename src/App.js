@@ -1,11 +1,7 @@
 import React from 'react';
 import './App.css';
 
-let name = "ClickKit";
 
-ReactDOM.render(
-  <h2 className="Foot"> {name}</h2>,
-  document.getElementById("Footer"));
 
 const data = [
 
